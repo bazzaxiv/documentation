@@ -21,8 +21,8 @@ Go to the bottom of the file and add the following:
 
 ```
 network={
-    ssid="The_ESSID_from_earlier"
-    psk="Your_wifi_password"
+ssid="The_ESSID_from_earlier"
+psk="Your_wifi_password"
 }
 ```
 
@@ -30,8 +30,8 @@ In the case of the example network, we would enter:
 
 ```
 network={
-    ssid="testing"
-    psk="testingPassword"
+ssid="testing"
+psk="testingPassword"
 }
 ```
    
